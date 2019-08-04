@@ -13,7 +13,7 @@ public class SpringWebApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertEquals(30,40);;
+		assertEquals(30,40);
 	}
 
 }
